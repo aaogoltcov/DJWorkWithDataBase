@@ -1,0 +1,36 @@
+.header {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.phone {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sort-block .sort-item {
+    padding-right: 20px;
+}
+
+.sort-block {
+    padding-bottom: 30px;
+}
+
+.sort-block a:nth-child(n + 2) {
+    padding-left: 30px;
+}
+
+.catalog {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    padding-bottom: 50px;
+}
+
+.price {
+    font-weight: bold;
+}
+
+
